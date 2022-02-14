@@ -1,0 +1,23 @@
+{
+  "name": "girls-node-ws-zaher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon src/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GSG-G11/girls-node-ws-zaher.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GSG-G11/girls-node-ws-zaher/issues"
+  },
+  "homepage": "https://github.com/GSG-G11/girls-node-ws-zaher#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
